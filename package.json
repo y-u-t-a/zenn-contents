@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/y-u-t-a/zenn-contents#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.114"
+    "zenn-cli": "^0.1.115"
   }
 }
